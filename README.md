@@ -1,0 +1,1 @@
+This is a project that I compeleted for my Business Programming class. I had to code a Roulette game in Python. This is something that I am proud of, considering this class was my first introduction to Python.
